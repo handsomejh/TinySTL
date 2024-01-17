@@ -1,0 +1,4 @@
+#ifndef MYTINYSTL_VECTOR_H_
+#define MYTINYSTL_VECTOR_H_
+
+#endif // !MYTINYSTL_VECTOR_H_
